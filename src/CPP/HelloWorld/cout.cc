@@ -1,0 +1,2 @@
+//for output
+std::cout
