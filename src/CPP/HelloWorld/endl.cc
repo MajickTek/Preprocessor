@@ -1,0 +1,2 @@
+//print newline
+std::endl
